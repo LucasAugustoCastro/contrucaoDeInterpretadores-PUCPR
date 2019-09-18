@@ -1,0 +1,11 @@
+inicio
+se 5 = 5
+entao
+imprima("aaaa2");
+senao
+imprima("aaaa2");
+fim_se
+para a <- 0 ate 6 passo 2
+imprima("aaaa2");
+fim_para
+fim
