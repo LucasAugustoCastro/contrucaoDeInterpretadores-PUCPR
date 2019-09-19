@@ -1,11 +1,8 @@
 inicio
-se 5 = 5
-entao
-imprima("aaaa2");
-senao
-imprima("aaaa2");
-fim_se
-para a <- 0 ate 6 passo 2
-imprima("aaaa2");
-fim_para
-fim
+	se 5=5 E 4=5
+	entao
+		imprima (" igual a 5");
+	senao
+		imprima (" diferente de 5");
+	fim_se
+fim
